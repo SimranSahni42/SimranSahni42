@@ -1,4 +1,4 @@
-![logo](https://github.com/SimranSahni42/SimranSahni42/blob/main/github-header-banner.png)
+![logo](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 <h1 align="center">Hi 👋, I'm Simran Sahni</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="coding" width="400"src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
